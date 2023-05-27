@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-### Skills 🚀
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,laravel,vue,react,nuxt,next,aws,docker)](https://skillicons.dev)
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,laravel,vue,react,nuxt,next)](https://skillicons.dev)
 
 <!--
 **abe-yuya/abe-yuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abe-yuya&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+### Skills 🚀
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,laravel,vue,react,nuxt,next,aws,docker)](https://skillicons.dev)
 
 <!--
 **abe-yuya/abe-yuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
